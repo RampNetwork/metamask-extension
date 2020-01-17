@@ -239,9 +239,6 @@
   "loadingTokens": {
     "message": "Tokens laden ..."
   },
-  "login": {
-    "message": "Log in"
-  },
   "lock": {
     "message": "Uitloggen"
   },
@@ -456,5 +453,8 @@
   },
   "youSign": {
     "message": "U ondertekent"
+  },
+  "unlock": {
+    "message": "Log in"
   }
 }

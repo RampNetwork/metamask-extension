@@ -639,9 +639,6 @@
   "loadMore": {
     "message": "加载更多"
   },
-  "login": {
-    "message": "登录"
-  },
   "lock": {
     "message": "登出"
   },

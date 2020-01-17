@@ -314,9 +314,6 @@
   "loadingTokens": {
     "message": "トークンをロード中..."
   },
-  "login": {
-    "message": "ログイン"
-  },
   "lock": {
     "message": "ログアウト"
   },
@@ -526,5 +523,8 @@
   },
   "youSign": {
     "message": "署名しています。"
+  },
+  "unlock": {
+    "message": "ログイン"
   }
 }

@@ -245,9 +245,6 @@
   "loadingTokens": {
     "message": "A carregar Tokens..."
   },
-  "login": {
-    "message": "Entrar"
-  },
   "lock": {
     "message": "Sair"
   },
@@ -466,5 +463,8 @@
   },
   "youSign": {
     "message": "Está a assinar"
+  },
+  "unlock": {
+    "message": "Entrar"
   }
 }

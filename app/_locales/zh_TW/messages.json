@@ -645,9 +645,6 @@
   "loadMore": {
     "message": "載入更多"
   },
-  "login": {
-    "message": "登入"
-  },
   "lock": {
     "message": "登出"
   },
@@ -1325,5 +1322,8 @@
   },
   "zeroGasPriceOnSpeedUpError": {
     "message": "加速的 Gas 價格為 0"
+  },
+  "unlock": {
+    "message": "登入"
   }
 }

@@ -281,9 +281,6 @@
   "loadingTokens": {
     "message": "Jetonlar yükleniyor..."
   },
-  "login": {
-    "message": "Giriş yap"
-  },
   "lock": {
     "message": "Çıkış"
   },
@@ -532,5 +529,8 @@
   },
   "youSign": {
     "message": "İmzalıyorsunuz"
+  },
+  "unlock": {
+    "message": "Giriş yap"
   }
 }
